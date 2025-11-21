@@ -1,0 +1,29 @@
+{
+  "name": "joga_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxrl1/joga_mongo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kxrl1/joga_mongo/issues"
+  },
+  "homepage": "https://github.com/kxrl1/joga_mongo#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.4",
+    "mongodb": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1"
+  }
+}
